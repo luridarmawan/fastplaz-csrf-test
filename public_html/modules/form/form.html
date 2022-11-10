@@ -1,0 +1,19 @@
+
+<div class="center-screen">
+  <div class="header">
+    <h3>Penggunaan CSRF pada Form</h3>
+    <p>
+      Isikan sembarang nilai pada field di bawah ini.
+    </p>
+  </div>
+  
+  <form method="post">
+    [csrf-token]
+    <input id="name" name="name" value="" required>
+    <button>Submit</button>
+  </form>
+  
+  <p>
+    <i>CSRF akan mendeteksi jika kamu mereload ulang halaman ini setelah form disubmit.</i>
+  </p>  
+</div>

@@ -1,0 +1,9 @@
+[session]
+active=1
+ipaddr=127.0.0.1
+start=10/11/2022 21:51:40
+last=10/11/2022 22:30:22
+
+[data]
+useragent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+_csrf_token_key=WkTFoevBnSYE
