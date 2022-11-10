@@ -1,6 +1,3 @@
 # Penggunaan CSRF Token pada Form di FastPlaz
 
-![home](docs/home.png)
-
-
-![](docs/csrf.mp4)
+![](docs/csrf.gif)
